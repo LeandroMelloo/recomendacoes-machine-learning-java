@@ -1,2 +1,2 @@
-# RecomendacoesMachineLearning
-Código para Recomendações em Machine Learning
+# recomendacoes-machine-learning-java
+Código para Recomendações em Machine Learning com JAVA
